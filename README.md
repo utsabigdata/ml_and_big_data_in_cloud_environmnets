@@ -1,4 +1,4 @@
-<img align="right" height="70" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/tree/master/img/chameleon.jpg">
+<img align="right" height="70" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/img/chameleon.jpg">
 
 
 <br /><br /><br />
