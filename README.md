@@ -36,8 +36,8 @@ This section covers the usage of Kibana's visualization tools. The students will
 ![alt text](https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_000.jpg)<br />
 <br/>
 
-<img width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_001.jpg">
-<img width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_002.jpg">
+<img align="left" width="420" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_001.jpg">
+<img align="right" width="420" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_002.jpg">
 <br/>
 <img align="left" width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_003.jpg">
 <img align="right" width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_004.jpg">
