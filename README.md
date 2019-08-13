@@ -18,7 +18,7 @@
 
 * Introduction to Chameleon Cloud and Data Analytics
 
-In this section we will introduce students and faculty members to Chameleon Cloud, an NSF-funded testbed system for Computer Science experimentation. It is designed to be deeply reconfigurable, with a wide variety of capabilities for researching systems, networking, distributed and cluster computing and security. In addition, we will students to big data concepts and data pre-processing techniques that can be used in the cloud hosted environments. Furthermore, we introduce the audience to distributed data repositories providing details about how data is stored across multiple nodes, how is indexed, and how data is retrieved on queries.
+In this section we will introduce students and faculty members to Chameleon Cloud, an NSF-funded testbed system for Computer Science experimentation. It is designed to be deeply reconfigurable, with a wide variety of capabilities for researching systems, networking, distributed and cluster computing and security. In addition, we will introduce students to big data concepts and data pre-processing techniques that can be used in the cloud hosted environments. Furthermore, we introduce the audience to distributed data repositories providing details about how data is stored across multiple nodes, how data is indexed, and how data is retrieved using queries.
 
 * Deploying your own Monitoring Environment and Connecting to a Data Analytics and Machine Learning Environment
 
