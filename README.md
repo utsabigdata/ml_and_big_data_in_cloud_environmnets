@@ -32,22 +32,22 @@ In this section, we present students with various approaches they can use to der
 
 This section covers the usage of Kibana's visualization tools. The students will learn how to use raw and pre-processed data to generate informative graphics using different tools within Kibana such as Canvas. In addition, students will be given a brief introduction on how to use X-pack's machine learning module. Each student will have the opportunity to train their model, visualize anomalies, and set alarms when an anomaly is detected.
 
-![alt text](https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-000.jpeg)<br />
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-001.jpeg">
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-002.jpeg">
+![alt text](https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-000.jpg)<br />
+<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-001.jpg">
+<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-002.jpg">
 <br />
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-003.jpeg">
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-004.jpeg">
+<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-003.jpg">
+<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-004.jpg">
 <br />
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-005.jpeg">
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-006.jpeg">
+<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-005.jpg">
+<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-006.jpg">
 <br />
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-007.jpeg">
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-008.jpeg">
+<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-007.jpg">
+<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-008.jpg">
 <br />
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-009.jpeg">
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-010.jpeg">
+<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-009.jpg">
+<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-010.jpg">
 <br />
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-011.jpeg">
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-012.jpeg">
+<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-011.jpg">
+<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic-012.jpg">
 <br />
