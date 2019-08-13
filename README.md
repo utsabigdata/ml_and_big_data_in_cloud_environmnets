@@ -34,25 +34,23 @@ This section covers the usage of Kibana's visualization tools. The students will
 
 
 ![alt text](https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_000.jpg)<br />
-<br />
+<br/>
 
-
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_001.jpg">
-
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_002.jpg">
-<br />
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_003.jpg">
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_004.jpg">
-<br />
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_005.jpg">
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_006.jpg">
-<br />
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_007.jpg">
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_008.jpg">
-<br />
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_009.jpg">
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_010.jpg">
-<br />
-<workshop_pics width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_011.jpg">
-<workshop_pics width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_012.jpg">
-<br />
+<img align="left" width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_001.jpg">
+<img align="left" width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_002.jpg">
+<br/>
+<img align="left" width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_003.jpg">
+<img align="left" width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_004.jpg">
+<br/>
+<img align="left" width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_005.jpg">
+<img align="left" width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_006.jpg">
+<br/>
+<img align="left" width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_007.jpg">
+<img align="left" width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_008.jpg">
+<br/>
+<img align="left" width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_009.jpg">
+<img align="left" width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_010.jpg">
+<br/>
+<img align="left" width="430" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_011.jpg">
+<img align="left" width="425" src="https://github.com/utsabigdata/ml_and_big_data_in_cloud_environmnets/blob/master/workshop_pics/Pic_012.jpg">
+<br/>
